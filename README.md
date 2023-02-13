@@ -1,2 +1,2 @@
 # TestPlanet
-Test pour le cours de L3 du CNAM ENJMIN
+Test final du cours de L3, Licence informatique jeux vidéo CNAM ENJMIN
